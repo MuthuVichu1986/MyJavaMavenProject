@@ -19,7 +19,7 @@ public class AppTest
     {
         super( testName );
     }
-
+//COMMENT
     /**
      * @return the suite of tests being tested
      */
